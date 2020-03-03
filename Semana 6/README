@@ -1,0 +1,2 @@
+- .feature files go together in feature folder. 
+- index file goes in step definition. It has definition for both .feature files so they can run together.
